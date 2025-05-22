@@ -115,4 +115,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Nicholas Tarazi - Nicholas.Tarazi7@gmail.com
 
+LinkedIn: https://www.linkedin.com/in/nicholas-tarazi/
+
 Project Link: [https://github.com/tnickster/ai-analyst-agent](https://github.com/tnickster/ai-analyst-agent)
